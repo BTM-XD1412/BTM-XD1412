@@ -1,4 +1,4 @@
-# 💫 Xin chào! Tớ là BTM-XD1412 (Bụt)
+# 💫 Xin chào! Tớ là BTM-XD1412
 
 <div align="center">
 
