@@ -16,7 +16,7 @@
 
 ## 👤 Giới Thiệu Bản Thân
 
-> Xin chào! Tớ là **Bút**, mọi người có thể gọi là **Bụt**. Tớ đang là học sinh lớp 12 tại một trường THPT công lập tại Hải Dương (nay là Hải Phòng). Tớ đam mê lập trình và phát triển các sản phẩm phần mềm, web apps và hệ thống server.
+> Xin chào! Tớ là **Bút**, mọi người có thể gọi là **Bụt**. Tớ đang là học sinh lớp 12 tại một trường THPT công lập tại Hải Dương (nay là Hải Phòng).
 
 ---
 
@@ -129,5 +129,5 @@ Nếu bạn yêu thích các dự án hoặc muốn ủng hộ tớ:
 ---
 
 <div align="center">
-  <sub>© 2026 <b>BTM-XD1412 (Bụt)</b>. All rights reserved.</sub>
+  <sub>© 2026 <b>BTM-XD1412</b>. All rights reserved.</sub>
 </div>
