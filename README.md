@@ -110,7 +110,7 @@
 <a href="https://tiktok.com/@butthongminh">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
 </a>
-<a href="https://steamcommunity.com">
+<a href="https://steamcommunity.com/id/butthongminh">
   <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
 </a>
 
