@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="logo.png" alt="BTM-XD1412 Avatar" width="130" style="border-radius: 50%;" />
+<img src="https://btmxd1412.dev/images/logo.png" alt="BTM-XD1412 Avatar" width="130" style="border-radius: 50%;" />
 
 ### **Developer • Student • Gamer**
 
