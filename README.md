@@ -8,7 +8,7 @@
 
 [![Status: Online](https://img.shields.io/badge/Status-Online-22c55e?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/BTM-XD1412)
 [![Location: Viet Nam](https://img.shields.io/badge/Location-Vi%E1%BB%87t_Nam-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/BTM-XD1412)
-[![Email](https://img.shields.io/badge/Email-btmxd1412%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btmxd1412@gmail.com)
+[![Email](https://img.shields.io/badge/Email-butsimptachyon%40btmxd1412.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:butsimptachyon@btmxd1412.dev)
 
 </div>
 
